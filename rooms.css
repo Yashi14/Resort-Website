@@ -1,0 +1,181 @@
+body{
+    background-color: #fff5ee;
+}
+
+.brown{
+    background-color:#9c8064 ;
+}    
+
+.text{
+    color: #3d332f;
+
+}
+
+.logo{
+    height: 70px;
+    width: 120px;
+    margin-bottom: 7px;
+}
+
+.topbar{
+    margin-top: 20px;
+}
+
+.bgbtn{
+    background-color: #3d332f;
+    color: #9c8064;
+    margin-left: 5px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.bgbtn:hover{
+    background-color: #fff5ee;
+    color: #3d332f;
+    
+}
+
+.nav-link{
+    color: #3d332f;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #fff5ee;
+}
+
+.cardo{
+    font-family: cardo;
+}
+
+.new_head{
+    text-align: center;
+    color: #3d332f;
+    margin-top: 130px;
+    font-size: 50px;
+}
+
+.new_head span{
+    border-bottom: 2px solid #3d332f;
+}
+
+.new_para{
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #3d332f;
+}
+
+.roomsg{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 40px;
+    height: 1000px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+
+
+.last{
+    margin-left: 450px;
+    width: 680px;
+    height: 480px;
+    object-fit: fill;
+    margin-top: 30px;
+    text-align: center;
+
+
+}
+
+img{
+    margin-bottom: 10px;
+}
+
+.down_div{
+    background-color: #9c8064;
+}
+
+.fut{
+    background-color: #9c8064;
+    height: 500px;
+}
+
+.boldy{
+    font-weight: bold;
+}  
+
+.brown{
+    background-color:#9c8064 ;
+}    
+
+.text{
+    color: #3d332f;
+
+}
+
+.logo{
+    height: 70px;
+    width: 120px;
+    margin-bottom: 7px;
+}
+
+.topbar{
+    margin-top: 20px;
+}
+
+.bgbtn{
+    background-color: #3d332f;
+    color: #9c8064;
+    margin-left: 5px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.bgbtn:hover{
+    background-color: #fff5ee;
+    color: #3d332f;
+    
+}
+
+.nav-link{
+    color: #3d332f;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #fff5ee;
+}
+
+.futbtn{
+    background-color: #3d332f;
+    color: #d9c5b7;
+}
+
+.futbtn:hover{
+    background-color: #d9c5b7;
+    color: #3d332f;
+}
+
+.tin{
+    font-size: xx-large;
+
+}
+
+.fb{
+    display: flex;
+    width: 120px;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.lasticon{
+    display: flex;
+    width: 130px;
+    height: 50px;
+    justify-content: space-between;
+}

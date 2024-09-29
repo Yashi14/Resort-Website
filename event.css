@@ -1,0 +1,67 @@
+.event_para{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cap{
+    margin-top: 50px;
+}
+
+.wed{
+    float: left;
+    height: 400px;
+    margin-left: 100px;
+
+}
+.meet{
+    float: right;
+    height: 400px;
+    margin-right: 100px;
+
+}
+
+.hhj{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.capy{
+    margin-top: 550px;
+    text-align: center;
+    color: #3d332f;
+
+}
+
+.hehe{
+    margin-top: 50px;
+    text-align: center;
+    border: 2px solid #735f57;
+    background-color: khaki;
+    color: blue;
+}
+
+.first{
+    color: yellowgreen;
+}
+
+.reach{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.boldy{
+    font-weight: bold;
+    color: #473b37;
+}
+
+.ssj{
+    height: 50px;
+    width: 130px;
+}
+
+.brder{
+    border: 2px solid #3d332f;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
+    margin-top: 100px;
+    padding: 50px;
+}

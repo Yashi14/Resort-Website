@@ -1,0 +1,164 @@
+body{
+    background-color: #fff5ee;
+}
+
+.brown{
+    background-color:#9c8064 ;
+}    
+
+.text{
+    color: #3d332f;
+
+}
+
+.logo{
+    height: 70px;
+    width: 120px;
+    margin-bottom: 7px;
+}
+
+.topbar{
+    margin-top: 20px;
+}
+
+.bgbtn{
+    background-color: #3d332f;
+    color: #9c8064;
+    margin-left: 5px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.bgbtn:hover{
+    background-color: #fff5ee;
+    color: #3d332f;
+    
+}
+
+.nav-link{
+    color: #3d332f;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #fff5ee;
+}
+
+.cardo{
+    font-family: cardo;
+}
+
+.main_head{
+    margin-top: 110px;
+    text-align: center;
+    font-size: 50px;
+}
+
+span{
+    border-bottom: 3px solid #3d332f;
+}
+
+.galery{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr ;
+    height: 800px;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.gal_in{
+    background-color: #9c8064;
+    border: 0.5px solid #3d332f;
+   text-align: center;
+}
+
+.down{
+    text-transform: uppercase;
+    font-family: raleway;
+    background-color: #9c8064;
+    padding-top: 7px;
+    font-weight: 550;
+ 
+}
+
+.down_div{
+    background-color: #9c8064;
+}
+
+.fut{
+    background-color: #9c8064;
+    height: 500px;
+}
+
+.boldy{
+    font-weight: bold;
+}  
+
+.brown{
+    background-color:#9c8064 ;
+}    
+
+.text{
+    color: #3d332f;
+
+}
+
+.logo{
+    height: 70px;
+    width: 120px;
+    margin-bottom: 7px;
+}
+
+.topbar{
+    margin-top: 20px;
+}
+
+.bgbtn{
+    background-color: #3d332f;
+    color: #9c8064;
+    margin-left: 5px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.bgbtn:hover{
+    background-color: #fff5ee;
+    color: #3d332f;
+    
+}
+
+.nav-link{
+    color: #3d332f;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #fff5ee;
+}
+
+.futbtn{
+    background-color: #3d332f;
+    color: #d9c5b7;
+}
+
+.futbtn:hover{
+    background-color: #d9c5b7;
+    color: #3d332f;
+}
+
+.tin{
+    font-size: xx-large;
+}
+
+.fb{
+    display: flex;
+    width: 120px;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.lasticon{
+    display: flex;
+    width: 130px;
+    height: 50px;
+    justify-content: space-between;
+}

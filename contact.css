@@ -1,0 +1,141 @@
+body{
+    background-color: #FFFFFF;
+}
+
+.cont_head{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: #9c8064;
+    padding: 10px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+
+    font-style: normal;
+
+}
+
+.cont_par{
+    font-size: 25px;
+}
+
+.fut{
+    background-color: #9c8064;
+    color: #3d332f;
+    margin-top: 100px;
+    padding-bottom: 5px;
+    
+}
+
+.endfut{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.sec2{
+    margin-right: 150px;
+}
+
+.futbtn{
+    background-color: #3d332f;
+    color: #d9c5b7;
+}
+
+.futbtn:hover{
+    background-color: #d9c5b7;
+    color: #3d332f;
+}
+
+.lasticon{
+    display: flex;
+    width: 130px;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.tin{
+    font-size: xx-large;
+}
+
+.buty{
+    margin-top: 30px;
+
+}
+
+.text{
+    color: #3d332f;
+
+}
+
+.ssj{
+    background-color: #9c8064;
+    color: #FFFFFF;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500; 
+}
+
+.black{
+    border: 0.5px solid #3d332f;
+}
+
+.buty_in{
+    width: 120px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: #685542;
+}
+
+.buty_in:hover{
+    background-color: #d9c5b7;
+    color: #3d332f;
+}
+
+.raleway{
+    font-family: "Raleway", sans-serif;
+    font-weight: 600; 
+  }
+
+.boldy{
+    font-weight: bold;
+}  
+
+.brown{
+    background-color:#9c8064 ;
+}    
+
+.text{
+    color: #3d332f;
+
+}
+
+.logo{
+    height: 70px;
+    width: 120px;
+    margin-bottom: 7px;
+}
+
+.topbar{
+    margin-top: 20px;
+}
+
+.bgbtn{
+    background-color: #3d332f;
+    color: #9c8064;
+    margin-left: 5px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.bgbtn:hover{
+    background-color: #fff5ee;
+    color: #3d332f;
+    
+}
+
+.nav-link{
+    color: #3d332f;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #fff5ee;
+}

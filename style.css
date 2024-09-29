@@ -1,0 +1,229 @@
+
+html{
+        background-color: #d9c5b7;
+    }
+
+body{
+    background-color: #d9c5b7;
+
+}
+
+
+.brown{
+    background-color:#9c8064 ;
+}    
+
+.text{
+    color: #3d332f;
+
+}
+
+.logo{
+    height: 70px;
+    width: 120px;
+    margin-bottom: 7px;
+}
+
+.topbar{
+    margin-top: 20px;
+}
+
+.bgbtn{
+    background-color: #3d332f;
+    color: #9c8064;
+    margin-left: 5px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.bgbtn:hover{
+    background-color: #fff5ee;
+    color: #3d332f;
+    
+}
+
+.nav-link{
+    color: #3d332f;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #fff5ee;
+}
+
+.slider{
+   width: 100vw;
+   height: 100vh;
+    background-image: url("./huhu.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sliders{
+text-align: center;
+}
+
+.sliders_head{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 80px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.sliders_para{
+    font-size: 30px;
+    font-family: "Arizonia", cursive;
+    font-weight: 600;
+}
+
+.Aboutme{
+    display: flex;
+    gap: 50px;
+    margin-top: 70px;
+    margin-left: 100px;
+
+}
+
+.pics{
+    justify-content: center;
+    
+}
+
+.hotel{
+    height: 400px;
+    width: 550px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    margin-right: 100px;
+    color: #3d332f;
+    box-shadow: #3d332f;
+
+}
+
+.info .hhj{
+    background-color: #9c8064;
+    margin-top: 0;
+    padding: 2px;
+}
+
+.info h1{
+    font-family: cardo;
+    font-size: 50px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.info .p1{
+    margin-top: 7px;
+}
+
+.raleway{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500; 
+}
+
+.fb{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.insta{
+    font-size: 22px;
+}
+
+.Amenity{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    margin-bottom: 100px;
+    
+    border: 2px solid #3d332f;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5); 
+    margin-left: 120px;
+    margin-right: 120px;
+
+}
+
+.Amenity_Head{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: #9c8064;
+    padding: 20px;
+    font-size: 50px;
+    font-family:cardo;
+    font-weight: 500; 
+
+}
+
+
+
+.second_half{
+    width: 500px;
+    height: 300px;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 100px;
+
+}
+
+.first_half{
+    width: 500px;
+    height: 300px;
+    text-align: right;
+    font-size: 20px;
+    padding-right: 150px;   
+
+}
+
+.fut{
+    background-color: #9c8064;
+    color: #3d332f;
+}
+
+.endfut{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.sec2{
+    margin-right: 150px;
+}
+
+.futbtn{
+    background-color: #3d332f;
+    color: #d9c5b7;
+}
+
+.futbtn:hover{
+    background-color: #d9c5b7;
+    color: #3d332f;
+}
+
+.lasticon{
+    display: flex;
+    width: 130px;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.tin{
+    font-size: xx-large;
+}
+
+.hhj{
+    padding-left: 500px;
+}
+
+.boldy{
+    font-weight: bold;
+}
+
